@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-02-26T12:10:03.381Z</updated>
+    <updated>2021-03-02T11:33:26.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
-    <subtitle>小丑尽是我自己！</subtitle>
+    <subtitle>小丑竟是我自己！</subtitle>
     <logo>https://mars-sea.github.io/images/avatar.png</logo>
     <icon>https://mars-sea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Mars-Sea&apos;s blog</rights>
@@ -160,7 +160,7 @@
 <pre><code>多行代码
 多行代码
 </code></pre>
-<h1 id="未完待续">未完待续 🙇</h1>
+<!--# 未完待续 🙇 2020.2.26-->
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
