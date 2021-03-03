@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-03-02T12:47:36.851Z</updated>
+    <updated>2021-03-03T08:18:25.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -160,7 +160,59 @@
 <pre><code>多行代码
 多行代码
 </code></pre>
+<hr>
 <!--# 未完待续 🙇 2020.2.26-->
+<h1 id="八-超链接">八、超链接</h1>
+<p>Markdown的超链接有两种方法，分别是用<code>[链接名称](链接网站地址)</code>、<code>&lt;链接地址&gt;</code>。<br>
+实例：</p>
+<pre><code>[Google](https://www.google.com)
+&lt;https://www.google.com&gt;
+</code></pre>
+<p>效果如下：<br>
+<a href="https://www.google.com">Google</a><br>
+<a href="https://www.google.com">https://www.google.com</a></p>
+<hr>
+<h1 id="九-图片">九、图片</h1>
+<p>Markdown图片的语法<code>![图片说明](图片地址)</code>。<br>
+实例：</p>
+<pre><code>![Markdown图片](https://cdn.jsdelivr.net/gh/Mars-Sea/Picture@main/uPic/2021-02-26-markdown_logo%20.jpg)
+</code></pre>
+<p>效果如下：<br>
+<img src="https://cdn.jsdelivr.net/gh/Mars-Sea/Picture@main/uPic/2021-02-26-markdown_logo%20.jpg" alt="Markdown图片" loading="lazy"></p>
+<hr>
+<h1 id="十-表格">十、表格</h1>
+<p>Markdown的制表符用<code>｜</code>来分割不同的单元，用<code>-</code>来分割表头和其他行。<br>
+对齐方式有：</p>
+<ul>
+<li><code>-:</code>：内容右对齐</li>
+<li><code>:-</code>：内容左对齐</li>
+<li><code>:-:</code>：内容居中对齐</li>
+</ul>
+<p>实例：</p>
+<pre><code>| 表头1   | 表头2  | 表头3   | 
+| -----: | :-----: | :------ | 
+| 单元格1 | 单元格2 | 单元格3 |
+</code></pre>
+<p>效果如下：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">表头1</th>
+<th style="text-align:center">表头2</th>
+<th style="text-align:left">表头3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">单元格1</td>
+<td style="text-align:center">单元格2</td>
+<td style="text-align:left">单元格3</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>希望能帮助到大家👋</strong></p>
+</blockquote>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
