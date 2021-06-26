@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-06-26T03:47:52.554Z</updated>
+    <updated>2021-06-26T03:59:19.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -158,11 +158,22 @@ the：表示 <strong>这、那、这些、那些</strong><br>
 如：</p>
 <ul>
 <li><strong>These cars are brown.</strong>    <em>这些车是棕色的</em></li>
-<li><strong>The teacher is American.</strong>   <em>这个老师是美国人</em></li>
+<li><strong>The teacher is American.</strong>   <em>这老师是美国人</em></li>
 <li><strong>This is my book.</strong>   <em>这是我的书</em></li>
 <li><strong>These are our books.</strong>   <em>这些是我们的书</em></li>
 <li><strong>That is her car.</strong>   <em>那是她的车</em></li>
 <li><strong>Those are their cars.</strong>   <em>那些是他们的车</em></li>
+</ul>
+<h1 id="介词prep">介词[<em>prep</em>]</h1>
+<p>介词用于连接两个词或句子。<br>
+介词有：<strong>on、in、of、near、under</strong></p>
+<h2 id="用法">用法</h2>
+<p>使用介词时，前面一定要有动词。<br>
+如：</p>
+<ul>
+<li>The glass <em><u>is(动词)</u></em> <strong>on(介词)</strong> the table.</li>
+<li>The television is near the window.</li>
+<li>The money is in the bag.</li>
 </ul>
 ]]></content>
     </entry>
