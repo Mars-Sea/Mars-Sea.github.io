@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-06-26T02:37:02.093Z</updated>
+    <updated>2021-06-26T02:58:18.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -83,6 +83,33 @@
 </tr>
 </tbody>
 </table>
+<h1 id="冠词">冠词</h1>
+<p>冠词是戴在名称头上的帽子，没有特殊情况不能摘。<br>
+特殊情况下不加冠词：国家（简写）、国籍、人名、城市名。</p>
+<p>冠词有：<strong>a，an，the</strong><br>
+a，an：表示 <strong>一个、一间、一台.....</strong><br>
+the：表示 <strong>这、那、这些、那些</strong><br>
+例如：</p>
+<ul>
+<li><strong>the student</strong> 表示这格学生或者那个学生</li>
+<li><strong>the stdents</strong> 表示这些学生或那些学生</li>
+</ul>
+<h2 id="冠词的分类">冠词的分类：</h2>
+<p>定冠词： <strong>the</strong> 表示确定的，知道的<br>
+不定冠词： <strong>a / an</strong> 表示不确定的</p>
+<p>例如：</p>
+<ul>
+<li><strong>There is <font color=red>a</font> monk</strong> 表示那有一个和尚</li>
+<li><strong><font color=red>The</font> monk is Jack</strong> 表示那个和尚叫Jack</li>
+</ul>
+<h2 id="冠词aan的区别">冠词a，an的区别</h2>
+<p>an后面是元音发音开头的单词，其余用a。<br>
+例如：</p>
+<ul>
+<li>an egg</li>
+<li>an orange</li>
+<li>an hours</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
