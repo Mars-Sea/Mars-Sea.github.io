@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-06-26T01:58:44.386Z</updated>
+    <updated>2021-06-26T02:24:26.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://mars-sea.github.io/images/avatar.png</logo>
     <icon>https://mars-sea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Mars-Sea&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[英语学记录（一）]]></title>
+        <id>https://mars-sea.github.io/post/ying-yu-zi-xue-ji-lu-yi/</id>
+        <link href="https://mars-sea.github.io/post/ying-yu-zi-xue-ji-lu-yi/">
+        </link>
+        <updated>2021-06-26T02:02:41.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="人称所有格">人称所有格</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">人称</th>
+<th style="text-align:center">第一人称</th>
+<th style="text-align:center">第二人称</th>
+<th style="text-align:center">第三人称</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">主格,单</td>
+<td style="text-align:center">I</td>
+<td style="text-align:center">You</td>
+<td style="text-align:center">He，She，It，They</td>
+</tr>
+<tr>
+<td style="text-align:center">主格,双</td>
+<td style="text-align:center">We</td>
+<td style="text-align:center">You</td>
+<td style="text-align:center">They</td>
+</tr>
+<tr>
+<td style="text-align:center">宾格,单</td>
+<td style="text-align:center">Me</td>
+<td style="text-align:center">You</td>
+<td style="text-align:center">Him，Her，It</td>
+</tr>
+<tr>
+<td style="text-align:center">宾格,双</td>
+<td style="text-align:center">Us</td>
+<td style="text-align:center">You</td>
+<td style="text-align:center">Them</td>
+</tr>
+</tbody>
+</table>
+<h1 id="be动词">be动词</h1>
+<p>be动词表示 <strong>‘是’</strong> 的意思 ---&gt; <strong>is，am，are</strong></p>
+<h1 id="人称的物主代词">人称的物主代词</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">人称</th>
+<th style="text-align:center">我的</th>
+<th style="text-align:center">你的</th>
+<th style="text-align:center">他的</th>
+<th style="text-align:center">她的</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">单</td>
+<td style="text-align:center">My</td>
+<td style="text-align:center">Your</td>
+<td style="text-align:center">His</td>
+<td style="text-align:center">Her</td>
+</tr>
+<tr>
+<td style="text-align:center">双</td>
+<td style="text-align:center">Our</td>
+<td style="text-align:center">Their</td>
+<td style="text-align:center">Their</td>
+<td style="text-align:center">Their</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown学习记录]]></title>
         <id>https://mars-sea.github.io/post/markdown-xue-xi-ji-lu/</id>
