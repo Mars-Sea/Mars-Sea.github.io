@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-06-26T03:59:19.527Z</updated>
+    <updated>2021-06-26T03:59:51.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -175,6 +175,20 @@ the：表示 <strong>这、那、这些、那些</strong><br>
 <li>The television is near the window.</li>
 <li>The money is in the bag.</li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maven配置]]></title>
+        <id>https://mars-sea.github.io/post/maven-pei-zhi-she-zhi/</id>
+        <link href="https://mars-sea.github.io/post/maven-pei-zhi-she-zhi/">
+        </link>
+        <updated>2021-03-03T07:43:28.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="maven下载地址">Maven下载地址</h1>
+<p>Maven 下载地址：<a href="http://maven.apache.org/download.cgi">http://maven.apache.org/download.cgi</a></p>
+<blockquote>
+<p><strong>下载完成后一定要检验一下sha512校验码，如果和官网不一样，一定要重新下载一次，直到和校验码一样采用，避免出现恶意攻击。</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/Mars-Sea/Picture@main/uPic/2021-03-03-maven-down.png" alt="下载实例图" loading="lazy"></p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
