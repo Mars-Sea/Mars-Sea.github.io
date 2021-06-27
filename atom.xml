@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-06-26T09:36:25.731Z</updated>
+    <updated>2021-06-27T03:14:40.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -66,24 +66,53 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">单数</td>
+<td style="text-align:center">形容词性,单数</td>
 <td style="text-align:center">My</td>
 <td style="text-align:center">Your</td>
 <td style="text-align:center">His</td>
 <td style="text-align:center">Her</td>
 </tr>
 <tr>
-<td style="text-align:center">复数</td>
+<td style="text-align:center">形容词性,复数</td>
 <td style="text-align:center">Our</td>
 <td style="text-align:center">Their</td>
 <td style="text-align:center">Their</td>
 <td style="text-align:center">Their</td>
 </tr>
+<tr>
+<td style="text-align:center">名词性,单数</td>
+<td style="text-align:center">Mine</td>
+<td style="text-align:center">Yours</td>
+<td style="text-align:center">His</td>
+<td style="text-align:center">Hers</td>
+</tr>
+<tr>
+<td style="text-align:center">名词性,复数</td>
+<td style="text-align:center">Ours</td>
+<td style="text-align:center">Theirs</td>
+<td style="text-align:center">Theirs</td>
+<td style="text-align:center">Theirs</td>
+</tr>
 </tbody>
 </table>
 <blockquote>
-<p>人名和职业名后面直接 <strong>+'s</strong> 如：Lucy's, driver's，必须是有生命的或人才可以使用</p>
+<p>人名和职业名后面直接 <strong>+'s</strong> 如：Lucy's, driver's，必须是有生命的或人才可以使用<br>
+<font color=red>belong to</font>：属于，后面接 <strong>me / her / him / them / us</strong>，人称的宾格形式。</p>
+<ul>
+<li>These are <font color=red>their</font> keys to the car.</li>
+<li>These keys to the car are <font color=red>theirs</font>.</li>
+<li>These keys to the car <font color=red>belong to them.</font></li>
+</ul>
 </blockquote>
+<p>例如：</p>
+<ul>
+<li>It is my address.</li>
+<li><strong>The address is mine.</strong></li>
+<li>My coat is green.</li>
+<li><strong>Mine is brown.</strong></li>
+<li>These are their names.</li>
+<li><strong>These names are theirs.</strong></li>
+</ul>
 <hr>
 <h1 id="be动词">be动词</h1>
 <p>be动词表示 <strong>‘是’</strong> 的意思 ---&gt; <strong>is，am，are</strong></p>
