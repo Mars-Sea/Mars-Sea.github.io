@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mars-sea.github.io</id>
     <title>Mars-Sea&apos;s blog</title>
-    <updated>2021-06-27T03:14:40.171Z</updated>
+    <updated>2021-07-25T13:44:52.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mars-sea.github.io"/>
     <link rel="self" href="https://mars-sea.github.io/atom.xml"/>
@@ -519,9 +519,9 @@ the：表示 <strong>这、那、这些、那些</strong><br>
 </blockquote>
 <hr>
 <h1 id="七-代码块">七、代码块</h1>
-<p>但行代码可以使用反单引号`括起来，多行代码可以使用三个反单引号括起来，这两个都是成对出现的。</p>
+<p>单行代码可以使用反单引号`括起来，多行代码可以使用三个反单引号括起来，这两个都是成对出现的。</p>
 <p>实例：</p>
-<pre><code>`但行代码`
+<pre><code>`单行代码`
 
 (```)
 多行代码
@@ -532,7 +532,7 @@ the：表示 <strong>这、那、这些、那些</strong><br>
 <p>为了避免转意，这里多行使用了小括号，实际上不需要使用小括号。</p>
 </blockquote>
 <p>效果如下：<br>
-<code>但行代码</code></p>
+<code>单行代码</code></p>
 <pre><code>多行代码
 多行代码
 </code></pre>
