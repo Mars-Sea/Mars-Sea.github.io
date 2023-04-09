@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.sspai.gay</id>
+    <title>Mars-Sea&apos;s blog</title>
+    <updated>2023-04-09T09:15:10.141Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.sspai.gay"/>
+    <link rel="self" href="https://blog.sspai.gay/atom.xml"/>
+    <subtitle>小丑竟是我自己！</subtitle>
+    <logo>https://blog.sspai.gay/images/avatar.png</logo>
+    <icon>https://blog.sspai.gay/favicon.ico</icon>
+    <rights>All rights reserved 2023, Mars-Sea&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[三大运营商积分兑换方法]]></title>
+        <id>https://blog.sspai.gay/san-da-yun-ying-shang-ji-fen-dui-huan-fang-fa/</id>
+        <link href="https://blog.sspai.gay/san-da-yun-ying-shang-ji-fen-dui-huan-fang-fa/">
+        </link>
+        <updated>2023-04-09T05:45:58.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="三大运营商发短信积分兑换话费方法">三大运营商发短信，积分兑换话费方法！</h1>
+<h2 id="中国移动">中国移动</h2>
+<p>1️⃣移动用户编辑「HF」发送至10658999；</p>
+<h2 id="中国联通">中国联通</h2>
+<p>2️⃣联通用户编辑「JFJF#Q」发送至10010；</p>
+<h2 id="中国电信">中国电信</h2>
+<p>3️⃣电信用户编辑「JFDH」发送至10001；</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 使用 Emby]]></title>
+        <id>https://blog.sspai.gay/windows-shi-yong-emby/</id>
+        <link href="https://blog.sspai.gay/windows-shi-yong-emby/">
+        </link>
+        <updated>2023-04-09T05:33:52.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="1-下载客户端">1. 下载客户端</h3>
+<p>下载地址：<a href="https://github.com/MediaBrowser/emby-theater-windows/releases">https://github.com/MediaBrowser/emby-theater-windows/releases</a></p>
+<h3 id="2-解压下载的-emby-软件">2. 解压下载的 Emby 软件</h3>
+<h3 id="3-在解压的文件夹中搜索-mainjs打开编辑">3. 在解压的文件夹中搜索 <code>main.js</code>，打开编辑</h3>
+<h3 id="4-在文件内搜索">4. 在文件内搜索</h3>
+<pre><code class="language-txt">https://tv.emby.media
+</code></pre>
+<h3 id="5-找到下面位置">5. 找到下面位置</h3>
+<pre><code class="language-jsx">function getAppBaseUrl() {
+
+        var url = 'https://tv.emby.media';
+
+        //url = 'http://localhost:8088';
+        return url;
+    }
+</code></pre>
+<h3 id="6-替换内容">6. 替换内容</h3>
+<pre><code class="language-jsx">function getAppBaseUrl() {
+        var url = 'http://embycrack.tk';
+        //url = 'http://localhost:8088';
+        return url;
+    }
+</code></pre>
+<h3 id="7-保存使用">7. 保存使用</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maven配置]]></title>
+        <id>https://blog.sspai.gay/maven-pei-zhi-she-zhi/</id>
+        <link href="https://blog.sspai.gay/maven-pei-zhi-she-zhi/">
+        </link>
+        <updated>2021-03-03T07:43:28.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="1-maven下载地址">1. Maven下载地址</h2>
+<p>Maven 下载地址：<a href="http://maven.apache.org/download.cgi">http://maven.apache.org/download.cgi</a></p>
+<blockquote>
+<p>下载完成后一定要检验一下sha512校验码，如果和官网不一样，一定要重新下载一次，直到和校验码一样采用，避免出现恶意攻击。**<br>
+<img src="https://cdn.jsdelivr.net/gh/Mars-Sea/Picture@main/uPic/2021-03-03-maven-down.png" alt="下载实例图" loading="lazy"></p>
+</blockquote>
+<h2 id="2-maven-环境配置">2. Maven 环境配置</h2>
+<h3 id="windows-配置">Windows 配置</h3>
+<ol>
+<li>
+<p>添加环境变量 <code>MAVEN_HOME</code><br>
+<img src="https://blog.sspai.gay/post-images/1681013707185.png" alt="环境变量配置" loading="lazy"></p>
+</li>
+<li>
+<p>编辑系统变量 Path，添加变量值 <code> %MAVEN_HOME%\bin</code><br>
+<img src="https://cdn.jsdelivr.net/gh/Mars-Sea/Picture/PicGo/202304091315596_maven_path.png" alt="环境变量配置" loading="lazy"></p>
+</li>
+<li>
+<p>打开终端，输入 <code>mvn -v</code>，如果能看到 Maven 相关版本信息，则说明 Maven 已经安装成功<br>
+<img src="https://cdn.jsdelivr.net/gh/Mars-Sea/Picture/PicGo/202304091317377_maven_mvn.png" alt="检查安装是否成功" loading="lazy"></p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://blog.sspai.gay/about/</id>
+        <link href="https://blog.sspai.gay/about/">
+        </link>
+        <updated>2021-02-26T08:08:36.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown学习记录]]></title>
+        <id>https://blog.sspai.gay/markdown-xue-xi-ji-lu/</id>
+        <link href="https://blog.sspai.gay/markdown-xue-xi-ji-lu/">
+        </link>
+        <updated>2021-02-26T07:54:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一-标题">一、标题</h1>
+<p>在想要设置的文文字前面加上#号，然后加一个空格。<br>
+以及标题就是一个#，二级标题就是##，以此类推。</p>
+<p>示例：</p>
+<pre><code># 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+</code></pre>
+<p>效果如下：</p>
+<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<h4 id="四级标题">四级标题</h4>
+<h5 id="五级标题">五级标题</h5>
+<h6 id="六级标题">六级标题</h6>
+<hr>
+<h1 id="二-字体">二、字体</h1>
+<p>markdown的字体可以用<code>*</code>括起来是斜体，用<code>**</code>括起来是粗体，用<code>***</code>是粗斜体，用<code>~~</code>是删除线。</p>
+<p>示例：</p>
+<pre><code>*斜体文本*
+**粗体文本**
+***粗斜体文本***
+~~删除线文本~~
+</code></pre>
+<p>效果如下：</p>
+<ul>
+<li><em>斜体文本</em></li>
+<li><strong>粗体文本</strong></li>
+<li><em><strong>粗斜体文本</strong></em></li>
+<li><s>删除线文本</s></li>
+</ul>
+<hr>
+<h1 id="三-分割线">三、分割线</h1>
+<p>分割线可以用<code>***</code>或<code>---</code>表示出来，行内不能有其他任何东西。</p>
+<p>实例：</p>
+<pre><code>***
+---
+</code></pre>
+<p>效果如下：</p>
+<hr>
+<hr>
+<p>可以看到效果都是一样的，就看个人习惯使用那种，下划线也可以，只是我个人不喜欢使用。</p>
+<hr>
+<h1 id="四-注释">四、注释</h1>
+<p>注释是对文本的补充说明，用<code>[^我是要注释的文本]</code>，然后单独写注解<code>[^我是要注释的文本]:注释说明</code>，需要注意的是中括号中的文本要和注释说明中的文本相同才行。<br>
+实例：</p>
+<pre><code>我是要注释的文本[^我是要注释的文本]。
+[^我是要注释的文本]:注解说明……。
+</code></pre>
+<p>效果如下：<br>
+我是要注释的文本<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>。</p>
+<h1 id="五-列表">五、列表</h1>
+<p>列表分为无序列表和有序列表。</p>
+<h2 id="无序列表">无序列表</h2>
+<p>无序可以使用<code>*</code>、<code>+</code>、<code>-</code>作为标记，还是需要加一个空格。</p>
+<p>实例：</p>
+<pre><code>* 无序列表
++ 无序列表
+- 无序列表
+</code></pre>
+<p>效果如下：</p>
+<ul>
+<li>无序列表</li>
+</ul>
+<ul>
+<li>无序列表</li>
+</ul>
+<ul>
+<li>无序列表</li>
+</ul>
+<hr>
+<h2 id="有序列表">有序列表</h2>
+<p>有序列表直接使用<code>1.</code>、<code>2.</code>、<code>3.</code>作为标记，加一个空格。</p>
+<p>实例：</p>
+<pre><code>1. 有序列表
+2. 有序列表
+3. 有序列表
+</code></pre>
+<p>效果如下：</p>
+<ol>
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<hr>
+<h2 id="列表嵌套">列表嵌套</h2>
+<p>只需要在下级列表前面加三个空格，或者按Tab键。</p>
+<p>实例：</p>
+<pre><code>1. 一级列表
+    * 二级列表
+        * 三级列表
+</code></pre>
+<p>效果如下：</p>
+<ol>
+<li>一级列表
+<ul>
+<li>二级列表
+<ul>
+<li>三级列表</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h1 id="六-引用">六、引用</h1>
+<p>自需要在前面加上<code>&gt;</code>符号和一个空格符号。嵌套只需要多加一层<code>&gt;&gt;</code>以此类推。</p>
+<p>实例：</p>
+<pre><code>&gt; 引用1
+&gt;&gt; 引用2
+&gt;&gt;&gt; 引用3
+</code></pre>
+<p>效果如下：</p>
+<blockquote>
+<p>引用1</p>
+<blockquote>
+<p>引用2</p>
+<blockquote>
+<p>引用3</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<hr>
+<h1 id="七-代码块">七、代码块</h1>
+<p>单行代码可以使用反单引号`括起来，多行代码可以使用三个反单引号括起来，这两个都是成对出现的。</p>
+<p>实例：</p>
+<pre><code>`单行代码`
+
+(```)
+多行代码
+多行代码
+(```)
+</code></pre>
+<blockquote>
+<p>为了避免转意，这里多行使用了小括号，实际上不需要使用小括号。</p>
+</blockquote>
+<p>效果如下：<br>
+<code>单行代码</code></p>
+<pre><code>多行代码
+多行代码
+</code></pre>
+<hr>
+<!--# 未完待续 🙇 2020.2.26-->
+<h1 id="八-超链接">八、超链接</h1>
+<p>Markdown的超链接有两种方法，分别是用<code>[链接名称](链接网站地址)</code>、<code>&lt;链接地址&gt;</code>。<br>
+实例：</p>
+<pre><code>[Google](https://www.google.com)
+&lt;https://www.google.com&gt;
+</code></pre>
+<p>效果如下：<br>
+<a href="https://www.google.com">Google</a><br>
+<a href="https://www.google.com">https://www.google.com</a></p>
+<hr>
+<h1 id="九-图片">九、图片</h1>
+<p>Markdown图片的语法<code>![图片说明](图片地址)</code>。<br>
+实例：</p>
+<pre><code>![Markdown图片](https://cdn.jsdelivr.net/gh/Mars-Sea/Picture@main/uPic/2021-02-26-markdown_logo%20.jpg)
+</code></pre>
+<p>效果如下：<br>
+<img src="https://cdn.jsdelivr.net/gh/Mars-Sea/Picture@main/uPic/2021-02-26-markdown_logo%20.jpg" alt="Markdown图片" loading="lazy"></p>
+<hr>
+<h1 id="十-表格">十、表格</h1>
+<p>Markdown的制表符用<code>｜</code>来分割不同的单元，用<code>-</code>来分割表头和其他行。<br>
+对齐方式有：</p>
+<ul>
+<li><code>-:</code>：内容右对齐</li>
+<li><code>:-</code>：内容左对齐</li>
+<li><code>:-:</code>：内容居中对齐</li>
+</ul>
+<p>实例：</p>
+<pre><code>| 表头1   | 表头2  | 表头3   | 
+| -----: | :-----: | :------ | 
+| 单元格1 | 单元格2 | 单元格3 |
+</code></pre>
+<p>效果如下：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">表头1</th>
+<th style="text-align:center">表头2</th>
+<th style="text-align:left">表头3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">单元格1</td>
+<td style="text-align:center">单元格2</td>
+<td style="text-align:left">单元格3</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>希望能帮助到大家👋</strong></p>
+</blockquote>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>注释说明……。 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+</feed>
